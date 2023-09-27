@@ -1,1 +1,46 @@
 /* your code here */
+.row-1{
+	display:flex;
+	justify-content:space-between;
+}
+.fa-brands{
+	margin-inline:5px;
+}
+.row-2{
+	
+	display:flex;
+	justify-content:space-between;
+	
+}
+.links-column{
+	display:flex;
+	flex-direction:column;
+}
+.services-column{
+	display:flex;
+	flex-direction:column;
+}
+.other-services-column{
+	display:flex;
+	flex-direction:column;
+}
+.contacts-column{
+	display:flex;
+	flex-direction:column;
+}
+a{
+	text-decoration:none;
+	color:#a4a4a4;
+	line-height:2;
+}
+.row-3{
+	display:flex;
+	justify-content:space-between;
+	color:#9c9da2;
+	
+	background-color:grey;
+}
+
+
+
+
