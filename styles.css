@@ -3,6 +3,10 @@
 	display:flex;
 	justify-content:space-between;
 }
+.media-icons{
+	display:flex;
+	
+}
 .fa-brands{
 	margin-inline:5px;
 }
